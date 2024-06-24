@@ -16,12 +16,18 @@ If you want to know more about twin.macro, visit
 If you do not want any hassle setting it up yourself, you can just clone the repo
 
 ```
-npx degit https://github.com/Franklivania/vite-twin.git
+npx degit https://github.com/Franklivania/vite-twin.git folder-name
 ```
 
 It should scaffold and you know what to do from there.
 
 To run locally, you do
+
+```
+npm install
+```
+
+then,
 
 ```
 npm run dev
